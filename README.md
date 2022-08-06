@@ -14,12 +14,12 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&bg_color=2B3433" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2B3433" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true&bg_color=2B3433" />
           </a>
        </p>
      <br>
@@ -28,7 +28,7 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/samsonlawal/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/samsonlawal/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 
 
