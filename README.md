@@ -9,7 +9,7 @@
 
 Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content web development to help you learn and I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 
-
+<!-- 
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -56,36 +56,10 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
           </a>
        </p>
      <br>
-  </div>  
+  </div>   -->
   
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity </h2>
 <a href="https://github.com/samsonlawal/github-readme-activity-graph"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /></a>
 
-
-
-<!-- ### Skills
-
-* ⚛ REACT
-* JS, HTML, CSS
-
-- 🔭 I’m currently working on Movie Info app using React. 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: [Twitter](https://twitter.com/samsonlawal_) -->
-<!-- 
-Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content web development to help you learn and I also share web resources, tips and tricks on Twitter https://twitter.com/samsonlawal_ -->
-<!--
-**samsonlawal/SamsonLawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Movie info website
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
