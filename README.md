@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content web development to help you learn and I also share web resources, tips and tricks on Twitter -> twitter.com/samsonlawal_ .
-
+Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content web development to help you learn and I also share web resources, tips and tricks on Twitter https://twitter.com/samsonlawal_
 <!--
 **samsonlawal/SamsonLawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
