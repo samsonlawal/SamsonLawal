@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Samson
 #### Frontend Developer
-![Frontend Developer](![Image](https://twitter.com/samsonlawal_/header_photo))
+![Image](https://twitter.com/samsonlawal_/header_photo)
 
 Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content web development to help you learn and I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 
