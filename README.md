@@ -1,7 +1,3 @@
-<!-- ![Image](https://twitter.com/samsonlawal_/header_photo) -->
-
-##### I'm working on this dashboard, so most of the links don't work or they lead to another person's accounts.
-
 ![Header](https://user-images.githubusercontent.com/53628155/183238983-ab323196-9f8e-43c3-a525-3b3c1c0ccab0.png)
 
 ### Hi there 👋, I'm Samson
@@ -61,5 +57,5 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/samsonlawal/github-readme-activity-graph"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /></a>
+<a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /></a>
 
