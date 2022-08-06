@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋, Samson
 #### Frontend Developer
 ![Image](https://twitter.com/samsonlawal_/header_photo)
 
@@ -10,7 +9,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Movie Info app using React. 
 - 🌱 I’m currently learning React 
-- 📫 How to reach me: https://twitter.com/samsonlawal_ 
+- 📫 How to reach me: [Twitter]https://twitter.com/samsonlawal_)
 
 
 
