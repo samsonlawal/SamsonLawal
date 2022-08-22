@@ -35,7 +35,7 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
       <br>
     </p>
   </samp>
-</div>
+</div> -->
 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -52,7 +52,7 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
           </a>
        </p>
      <br>
-  </div>   -->
+  </div>   
   
   <br/>
   <h2 align="center"> My Current Activity </h2>
