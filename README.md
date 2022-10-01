@@ -48,7 +48,7 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samsonlawal&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2B3433" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonlawal&theme=gruvbox&hide_border=true&bg_color=2B33" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonlawal&theme=gruvbox&hide_border=true&bg_color=2B433" />
           </a>
        </p>
      <br>
