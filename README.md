@@ -56,5 +56,5 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
   
   <br/>
   <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /></a>
+<a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=2B3433&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /></a> 
 
