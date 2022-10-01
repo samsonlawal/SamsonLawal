@@ -5,7 +5,6 @@
 
 Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content on web development to help you learn and I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 
-https://api.daily.dev/devcards/0460838771a44b00820b3ff8f0112b52.png?r=i34
 
 <!-- 
   <summary>☎️ contact me</summary>
