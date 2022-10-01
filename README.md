@@ -46,9 +46,9 @@ Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learnin
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsonlawal&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&bg_color=2B3433" alt="samson :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/samaonlawal/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samsonlawal&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2B3433" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonlawal&theme=gruvbox&hide_border=true&bg_color=2B433" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonlawal&theme=gruvbox&hide_border=true&bg_color=2B3433" />
           </a>
        </p>
      <br>
