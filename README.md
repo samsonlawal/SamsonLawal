@@ -1,4 +1,7 @@
-![Header](https://user-images.githubusercontent.com/53628155/183238983-ab323196-9f8e-43c3-a525-3b3c1c0ccab0.png)
+![Header](https://pbs.twimg.com/profile_banners/1020420720411566080/1662610661)
+
+<!-- https://user-images.githubusercontent.com/53628155/183238983-ab323196-9f8e-43c3-a525-3b3c1c0ccab0.png -->
+
 
 ### Hi there 👋, I'm Samson
 #### Frontend Developer
