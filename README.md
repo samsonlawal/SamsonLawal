@@ -1,11 +1,7 @@
-![Header](https://pbs.twimg.com/profile_banners/1020420720411566080/1662610661)
 
+# Hi 👋
 
-
-### Hi there 👋, I'm Samson
-#### Frontend Developer
-
-Hi, I'm Samson Lawal, a Front-end Developer from Nigeria. I am currently learning React js and building projects. I create content on web development to help you learn and I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
+I'm Samson Lawal, a front-end React developer. I build interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 
 
 
