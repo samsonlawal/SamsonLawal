@@ -6,9 +6,9 @@ I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, 
 
 
 <div>
-<!--   <samp> -->
-<!--     <h2 align="center">😎 YOU CAN REACH ME ON</h2> -->
-<!--     <p align="center">
+  <samp>
+    <h2 align="center">😎 YOU CAN REACH ME ON</h2>
+    <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -19,8 +19,8 @@ I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, 
       <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p> -->
-<!--   <p align="center">
+    </p>
+  <p align="center">
       <a href="https://instagram.com/samsonlawal_" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -31,9 +31,9 @@ I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, 
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
-    </p> -->
-<!--   </samp> -->
-<!-- </div>  -->
+    </p>
+  </samp>
+</div> 
 
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
   <div>
