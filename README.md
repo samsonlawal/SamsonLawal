@@ -1,7 +1,7 @@
 
 # Hi 👋
 
-I'm Samson Lawal, a front-end React developer. I build interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
+I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 
 
 
