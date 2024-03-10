@@ -49,11 +49,9 @@ I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, 
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonlawal&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828" />
           </a>
        </p> -->
-     <br>
-  </div>  
-  
-  <br/>
- <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=282828&color=6D8B74&line=A27B5C&point=fff&hide_border=true" />
-</a>
+<!--      <br> -->
+<!--   </div>   -->
+
+<!-- <a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=282828&color=6D8B74&line=A27B5C&point=fff&hide_border=true" /> -->
+<!-- </a> -->
 
