@@ -8,6 +8,20 @@ I build Responsive websites, UIs, interesting projects and create web developmen
   <li>I'm learning Next.js</li>                    
 </ul>
 
+<div>
+<!--   <samp> -->
+    <h2>Skills:</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/typescript-0e76a8.svg?style=for-the-badge&logo=typescript&logoColor=white"
+         alt="azzar" height="30"/></a>
+            <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+<!--   </samp> -->
+</div> 
+
 
 
 <div>
@@ -40,5 +54,4 @@ I build Responsive websites, UIs, interesting projects and create web developmen
        </p>
      <br>
   </div>  
-<a href="https://github.com/samsonlawal"><img alt="Samson's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samsonlawal&bg_color=282828&color=6D8B74&line=A27B5C&point=fff&hide_border=true" />
 
