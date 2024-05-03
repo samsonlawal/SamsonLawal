@@ -11,7 +11,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 
 
 <div>
-  <samp>
+<!--   <samp> -->
     <h2>Socials:</h2>
     <p>
       <br/>
@@ -22,7 +22,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-  </samp>
+<!--   </samp> -->
 </div> 
 
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
