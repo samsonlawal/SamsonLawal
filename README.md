@@ -11,30 +11,16 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 <div>
 <!--   <samp> -->
     <h2>Skills:</h2>
-    <p>
-       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/html5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"
-         alt="azzar" height="30"/></a>
-       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/css3-0e76a8.svg?style=for-the-badge&logo=css3&logoColor=white"
-         alt="azzar" height="30"/></a>
-       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
-         alt="azzar" height="30"/></a>
-         <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F0DB4F"
-         alt="azzar" height="30"/></a>
-         <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/react-23272F.svg?style=for-the-badge&logo=react&logoColor=06B6D4"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/typescript-0e76a8.svg?style=for-the-badge&logo=typescript&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
-         src="https://img.shields.io/badge/nextjs-000.svg?style=for-the-badge&logo=nextjs&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-<!--   </samp> -->
+<p align="left">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
+<img src="https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Scss" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCss" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJs"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+</p>
 </div> 
 
 
