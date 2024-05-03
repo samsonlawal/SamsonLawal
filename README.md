@@ -16,7 +16,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
          src="https://img.shields.io/badge/html5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"
          alt="azzar" height="30"/></a>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/css3-0e76a8.svg?style=for-the-badge&logo=css3&logoColor=white"
+         src="https://img.shields.io/badge/css3-06b6d4.svg?style=for-the-badge&logo=css3&logoColor=white"
          alt="azzar" height="30"/></a>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/tailwindcss-0e76a8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
