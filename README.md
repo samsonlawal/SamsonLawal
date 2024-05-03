@@ -25,12 +25,12 @@ I build Responsive websites, UIs, interesting projects and create web developmen
          src="https://img.shields.io/badge/javascript-0e76a8.svg?style=for-the-badge&logo=javascript&logoColor=white"
          alt="azzar" height="30"/></a>
          <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/reactjs-0e76a8.svg?style=for-the-badge&logo=reactjs&logoColor=white"
+         src="https://img.shields.io/badge/react-0e76a8.svg?style=for-the-badge&logo=react&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/typescript-0e76a8.svg?style=for-the-badge&logo=typescript&logoColor=white"
          alt="azzar" height="30"/></a>
-            <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
+      <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
