@@ -31,7 +31,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
          src="https://img.shields.io/badge/typescript-0e76a8.svg?style=for-the-badge&logo=typescript&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
-         src="https://img.shields.io/badge/nextjs-1DA1F2.svg?style=for-the-badge&logo=nextjs&logoColor=white"
+         src="https://img.shields.io/badge/nextjs-000.svg?style=for-the-badge&logo=nextjs&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
 <!--   </samp> -->
