@@ -47,7 +47,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 <p align="center">
   <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samsonlawal&show_icons=true&theme=dark" />
 
-<img align="right" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samsonlawal&layout=compact&langs_count=10&theme=dark"/>
+<img align="right" height="180em" width="50em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samsonlawal&layout=compact&langs_count=10&theme=dark"/>
 </p>
 
 
