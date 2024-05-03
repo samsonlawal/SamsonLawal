@@ -19,10 +19,10 @@ I build Responsive websites, UIs, interesting projects and create web developmen
          src="https://img.shields.io/badge/css3-0e76a8.svg?style=for-the-badge&logo=css3&logoColor=white"
          alt="azzar" height="30"/></a>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/tailwindcss-a5f3fc.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
+         src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
          alt="azzar" height="30"/></a>
          <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/javascript-0e76a8.svg?style=for-the-badge&logo=javascript&logoColor=white"
+         src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F0DB4F"
          alt="azzar" height="30"/></a>
          <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/react-0e76a8.svg?style=for-the-badge&logo=react&logoColor=61DBFB"
