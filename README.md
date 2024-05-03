@@ -1,5 +1,5 @@
 
-# Hi I'm Samson, a Frontend React Developer👋
+# Hi👋 I'm Samson, a Frontend React Developer
 
 I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
 <ul>
@@ -16,7 +16,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
     <p>
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
             <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
