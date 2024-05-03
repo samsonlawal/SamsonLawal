@@ -1,20 +1,22 @@
 
-# Hi 👋
+# Hi I'm Samson, a Frontend React Developer👋
 
-I'm Samson Lawal, a Frontend React Developer. I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
+I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
+<ul>
+  <li>I'm based in Benin</li>
+  <li> You can contact me at <a href="mailto:samsonthedev@gmail.com">samsonthedev@gmail.com</a></li>
+  <li>I'm learning Next.js</li>                    
+</ul>
 
 
 
 <div>
   <samp>
-    <h2 align="center">😎 YOU CAN REACH ME ON</h2>
-    <p align="center">
+    <h2>Socials:</h2>
+    <p>
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         src="https://img.shields.io/badge/linkedin-%0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
             <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
