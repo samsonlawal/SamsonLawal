@@ -13,13 +13,13 @@ I build Responsive websites, UIs, interesting projects and create web developmen
     <h2>Skills:</h2>
     <p>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/html-0e76a8.svg?style=for-the-badge&logo=html&logoColor=white"
+         src="https://img.shields.io/badge/html5-0e76a8.svg?style=for-the-badge&logo=html5&logoColor=white"
          alt="azzar" height="30"/></a>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/css-0e76a8.svg?style=for-the-badge&logo=css&logoColor=white"
+         src="https://img.shields.io/badge/css3-0e76a8.svg?style=for-the-badge&logo=css3&logoColor=white"
          alt="azzar" height="30"/></a>
        <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/tailwind-0e76a8.svg?style=for-the-badge&logo=tailwind&logoColor=white"
+         src="https://img.shields.io/badge/tailwindcss-0e76a8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/typescript-0e76a8.svg?style=for-the-badge&logo=typescript&logoColor=white"
