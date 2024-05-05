@@ -21,8 +21,8 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJs"/>
 <img src="https://img.shields.io/badge/supabase-1C1C1C.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="supabase" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
+<!--   <img src="https://img.shields.io/badge/mongodb-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="mongodb" /> -->
+<!--   <img src="https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=white" alt="framer" /> -->
 </p>
 </div> 
 
