@@ -6,7 +6,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 <ul>
   <li>I'm based in Benin</li>
   <li> You can contact me at <a href="mailto:samsonthedev@gmail.com">samsonthedev@gmail.com</a></li>
-  <li>I'm learning Next.js</li>                    
+  <li>I'm learning Next.js and Typescript</li>                    
 </ul>
 
 <div>
