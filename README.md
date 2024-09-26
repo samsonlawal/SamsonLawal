@@ -32,7 +32,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
 <!--   <samp> -->
     <h2>Socials:</h2>
     <p>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/smsnlawal/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
             <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
