@@ -2,7 +2,7 @@
 
 # Hi👋 I'm Samson, a Frontend React Developer
 
-I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsonlawal_)
+I build Responsive websites, UIs, interesting projects and create web development content to help you learn. I also share web resources, tips, and tricks on [Twitter](https://twitter.com/samsondejs)
 <ul>
   <li>I'm based in Benin</li>
   <li> You can contact me at <a href="mailto:samsonthedev@gmail.com">samsonthedev@gmail.com</a></li>
@@ -42,7 +42,7 @@ I build Responsive websites, UIs, interesting projects and create web developmen
       <a href="https://www.linkedin.com/in/smsnlawal/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-            <a href="https://twitter.com/samsonlawal_" target="blank"><img align="center"
+            <a href="https://twitter.com/samsondejs" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
